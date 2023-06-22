@@ -49,7 +49,7 @@ except URLError as e:
 
 
 #To stop anything past the Fruityvice section
-streamlit.stop()
+#streamlit.stop()
 
 #import snowflake.connector
 
